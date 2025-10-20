@@ -1,13 +1,13 @@
 # GerenciaBiblioteca
- O projeto foi construido com java/spring, para inicialização do projeto, não deve ter muitas complicações o banco usado foi o Postgress.
+-O projeto foi construido com java/spring, para inicialização do projeto, não deve ter muitas complicações o banco usado foi o Postgress.
 
-Configurações do Resources:
-spring.datasource.url= jdbc:postgresql://localhost:5432/library-api
-spring.datasource.username=postgres
-spring.datasource.password=banco123
-spring.jpa.hibernate.ddl-auto= update
+-Configurações do Resources:
+-spring.datasource.url= jdbc:postgresql://localhost:5432/library-api
+-spring.datasource.username=postgres
+-spring.datasource.password=banco123
+-spring.jpa.hibernate.ddl-auto= update
 
-Exemplo post livro 
+-Exemplo post livro 
 POST http://localhost:8080/Book
 Content-Type: application/json
 
