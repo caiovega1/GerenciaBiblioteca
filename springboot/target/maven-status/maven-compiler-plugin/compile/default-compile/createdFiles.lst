@@ -1,0 +1,15 @@
+com\example\springboot\repositories\BookRepository.class
+com\example\springboot\SpringbootApplication.class
+com\example\springboot\dtos\LoanRecordDto.class
+com\example\springboot\controllers\UserController.class
+com\example\springboot\controllers\LoanController.class
+com\example\springboot\services\LoanService.class
+com\example\springboot\models\User.class
+com\example\springboot\models\CategoriaEnum.class
+com\example\springboot\controllers\BookController.class
+com\example\springboot\models\Book.class
+com\example\springboot\dtos\BookRecordDto.class
+com\example\springboot\repositories\UserRepository.class
+com\example\springboot\models\Loan.class
+com\example\springboot\repositories\LoanRepository.class
+com\example\springboot\dtos\UserRecordDto.class

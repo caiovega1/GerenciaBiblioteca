@@ -1,0 +1,15 @@
+D:\java\springboot\src\main\java\com\example\springboot\controllers\BookController.java
+D:\java\springboot\src\main\java\com\example\springboot\controllers\LoanController.java
+D:\java\springboot\src\main\java\com\example\springboot\controllers\UserController.java
+D:\java\springboot\src\main\java\com\example\springboot\dtos\BookRecordDto.java
+D:\java\springboot\src\main\java\com\example\springboot\dtos\LoanRecordDto.java
+D:\java\springboot\src\main\java\com\example\springboot\dtos\UserRecordDto.java
+D:\java\springboot\src\main\java\com\example\springboot\models\Book.java
+D:\java\springboot\src\main\java\com\example\springboot\models\CategoriaEnum.java
+D:\java\springboot\src\main\java\com\example\springboot\models\Loan.java
+D:\java\springboot\src\main\java\com\example\springboot\models\User.java
+D:\java\springboot\src\main\java\com\example\springboot\repositories\BookRepository.java
+D:\java\springboot\src\main\java\com\example\springboot\repositories\LoanRepository.java
+D:\java\springboot\src\main\java\com\example\springboot\repositories\UserRepository.java
+D:\java\springboot\src\main\java\com\example\springboot\services\LoanService.java
+D:\java\springboot\src\main\java\com\example\springboot\SpringbootApplication.java
